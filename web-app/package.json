@@ -1,0 +1,16 @@
+{
+  "name": "web-app",
+  "version": "1.0.0",
+  "description": "The app diplays index and about us html page",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Niyati",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "express": "^4.14.0"
+  }
+}
